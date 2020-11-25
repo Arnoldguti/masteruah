@@ -4,7 +4,7 @@ Repositorio para el Master en Blockchain
 Git clone https://github.com/Arnoldguti/masteruah.git
 
 
-| Nombre | #Enlace de Github | 
+| Nombre | Enlace de Github | 
 | :---: | :---: | 
 | Max Zapata | https://github.com/maxzapata/masteruah |
 | Dario De La Hoz | https://github.com/dariohoz |
